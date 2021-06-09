@@ -170,7 +170,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url('../images/bg.svg');
+    background: url('./images/bg.svg');
     height: 100vh;
     color: #fff;
     min-height: 500px;
