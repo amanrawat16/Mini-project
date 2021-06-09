@@ -170,7 +170,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url('./images/bg.svg');
+    background: url('https://raw.githubusercontent.com/amanrawat16/amanrawat.github.io/79e8bd23ba73f9b95086c115ccb9aec4b3fbf06c/images/bg.svg');
     height: 100vh;
     color: #fff;
     min-height: 500px;
